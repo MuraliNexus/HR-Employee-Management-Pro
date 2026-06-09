@@ -313,6 +313,21 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
 
+# 📸 API Screenshots
+
+## Create Department API
+
+![Create Department API](postman_department_upload.JPG)
+
+## Create Employee API
+
+![Create Employee API](postman_employee_upload.JPG)
+
+## Dynamic Filtering, Pagination & Sorting
+
+![Filter Pagination Sorting](filter_sorting_pagination.JPG)
+
+
 ---
 
 # 🚀 How To Run
