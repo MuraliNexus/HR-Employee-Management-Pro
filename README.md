@@ -1,4 +1,4 @@
-# 🚀 Employee Management Pro
+# 🚀 HR-Employee-Management-Pro
 
 A comprehensive Spring Boot REST API project demonstrating real-world Employee Management with advanced JPA/Hibernate concepts including entity relationships, dynamic filtering, pagination, sorting, and CRUD operations.
 
