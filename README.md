@@ -307,6 +307,9 @@ spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.format_sql=true
 ```
+## Entity Relationship Diagram
+
+![Entity Relationship Diagram](relationship.JPG)
 
 ---
 
@@ -339,6 +342,7 @@ Application starts on:
 ```text
 http://localhost:8080
 ```
+
 
 ---
 
