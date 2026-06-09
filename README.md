@@ -45,7 +45,7 @@ This project manages Employees, Departments, Addresses, and Projects while showc
 src
 └── main
     ├── java
-    │   └── com.example.Manytoone_onetoMany
+    │   └── com.murali.employeemanagement
     │       ├── Controller
     │       │   └── AppController.java
     │       │
